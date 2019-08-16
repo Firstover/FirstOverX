@@ -91,4 +91,23 @@
 #         x += 1
 # print(i)
 
+# n = input()
+# n = n.split()
+# n = [int(i) for i in n]
+# temp = 0
+# count = 0
+# count2 = 0
+# for i in range(len(n)):
+#     for j in range(i+1, len(n)): 
+#         if n[i] > n[j]:
+#             temp = n[i]
+#             n[i] = n[j]
+#             n[j] = temp
+#             count += 1
+#         count2 += 1
+# print(count, count2)
+# print("%d %d" %(n[0],n[(len(n)-1)]))
+
+
+
     

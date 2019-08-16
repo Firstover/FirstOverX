@@ -199,7 +199,7 @@
 #             n += d[j]
 #         print(n)
 
-# a = input()
+# a = input(),9im8u9mi
 # a = a.split("-")
 # startday = 2
 # b = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
