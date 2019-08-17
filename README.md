@@ -1,4 +1,5 @@
 # FirstOverX
 python
 
-HELLO IM FIRSTOVER
+Welcome to my python code
+Hope you enjoy!
